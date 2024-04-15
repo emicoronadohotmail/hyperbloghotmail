@@ -1,6 +1,6 @@
 body
 {
-
+    background-color:#1e1f24;
     color: blueviolet;
 
     text-align: center;
@@ -27,6 +27,7 @@ body
 }
 #container
 {
+    background-color: aliceblue;
     width: 70%;
     padding: 1em;
     text-align: left;
@@ -41,4 +42,9 @@ h1
 
 .rosa {
     color: pink;
+}
+
+#logo{
+    width:20px;
+    vertical-align:middle
 }
