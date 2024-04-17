@@ -8,3 +8,5 @@ Mañana nos enfocaremos en su vida laboral
 agrego lineas desde el proyecto clonado.
 
 agrego lineas desde le proyecto forkeado con la cuenta de hotmail
+
+cambio desde github en emicoronado gmail para que se actualce en emicoronado hotmail
